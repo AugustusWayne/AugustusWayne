@@ -9,8 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/@augustus_0510" target="blank"><img src="https://img.shields.io/twitter/follow/@augustus_0510?logo=twitter&style=for-the-badge" alt="@augustus_0510" /></a> </p>
 
-- 📫 How to reach me **ishaan.sharma0510@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@augustus_0510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@augustus_0510" height="30" width="40" /></a>
